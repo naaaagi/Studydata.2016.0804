@@ -3,7 +3,6 @@
 
 
 (*ブドウ*)
-
 a = Graphics3D[{Purple, Sphere[{2, 0, 0}]}, Boxed -> False];
 b = Graphics3D[{Purple, Sphere[{2, 0, 1}]}, Boxed -> False];
 c = Graphics3D[{Purple, Sphere[{2, 1, 0}]}, Boxed -> False];
@@ -45,7 +44,6 @@ s, t, y, z, aa, bb]
 
 
 (*どこでもドア*)
-
 cc = Graphics3D[{Pink, Cuboid[{-5, -2, -2}, {2, 2, -1.5}]}, 
    Boxed -> False];
 dd = Graphics3D[{Pink, Cuboid[{-5.3, -2.1, -2}, {-5, 2.1, -1.5}]}, 
