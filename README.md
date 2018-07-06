@@ -1,5 +1,7 @@
 # Studydata.2016.0804
 授業プログラミング作品(プログラミング言語：Mathematica)
+
+
 (*ブドウ*)
 a = Graphics3D[{Purple, Sphere[{2, 0, 0}]}, Boxed -> False];
 b = Graphics3D[{Purple, Sphere[{2, 0, 1}]}, Boxed -> False];
@@ -38,6 +40,8 @@ bb = Graphics3D[{Brown, Cylinder[{{0.5, 0, 1}, {0.5, 2, 1}}, 1/2.5]},
 
 Show[a, b, c, d, e, f, g, h, i, j, k, l, n, u, v, o, w, x, p, q, r, \
 s, t, y, z, aa, bb]
+
+
 
 (*どこでもドア*)
 cc = Graphics3D[{Pink, Cuboid[{-5, -2, -2}, {2, 2, -1.5}]}, 
